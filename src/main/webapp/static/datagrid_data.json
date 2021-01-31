@@ -1,0 +1,33 @@
+{
+  "total": 28,
+  "rows": [
+    {
+      "id": 1,
+      "name": "张三",
+      "sex": true,
+      "birthDay": "2019-07-13",
+      "photo": "/UserApplication/user.jpg"
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "sex": true,
+      "birthDay": "2019-07-13",
+      "photo": "/UserApplication/user.jpg"
+    },
+    {
+      "id": 3,
+      "name": "王五",
+      "sex": true,
+      "birthDay": "2019-07-13",
+      "photo": "/UserApplication/user.jpg"
+    },
+    {
+      "id": 4,
+      "name": "赵六",
+      "sex": false,
+      "birthDay": "2019-07-14",
+      "photo": "/UserApplication/user.jpg"
+    }
+  ]
+}
